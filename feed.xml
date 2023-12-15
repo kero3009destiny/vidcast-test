@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:anchor="https://anchor.fm/xmlns">
+  <channel>
+    <title>Vidcasting Test</title>
+    <link>https://github.com/kero3009destiny/vidcast-test/</link>
+    <language>en</language>
+    <copyright>dirt3009</copyright>
+    <itunes:subtitle></itunes:subtitle>
+    <itunes:author>dirt3009</itunes:author>
+    <itunes:summary>Vidcasting test</itunes:summary>  
+    <itunes:owner>
+      <itunes:name>dirt3009</itunes:name>
+      <itunes:email>iam@emirgecir.com.tr</itunes:email>
+    </itunes:owner>
+    <email>iam@emirgecir.com.tr</email>
+    <spotifyis>trash</spotifyis>
+    <itunes:image href="https://github.com/kero3009destiny/vidcast-test/blob/main/cover.jpg?raw=true" />
+    <itunes:category text="Christianity"/>
+    
+      <item>
+        <title>Epizod: 1</title>
+        <itunes:author>dirt3009</itunes:author>
+        <itunes:subtitle>GOD MOTHAFUCKIN DAMNNN</itunes:subtitle>
+        <itunes:summary>test.</itunes:summary>
+        <itunes:image href="https://github.com/kero3009destiny/vidcast-test/blob/main/cover.jpg?raw=true" />
+        <enclosure url="https://cdn.discordapp.com/attachments/724874750383358073/1185310938933502073/chesta2.mp4" length="458139" type="video/x-m4v" />
+        <guid>4d4244a2-a681-4502-8c5d-064ca8295990</guid>
+        <pubDate>Sun Jan 02 2022 20:32:12 GMT+0300 (GMT+03:00)</pubDate>
+        <itunes:duration></itunes:duration>
+      </item>
+    
+  </channel>
+  </rss>
